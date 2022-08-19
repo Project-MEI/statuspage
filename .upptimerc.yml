@@ -1,27 +1,57 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: raidensakura # Your GitHub organization or username, where this repository lives
+repo: shogun-status # The name of this repository
+user-agent: raidensakura
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Website
+    url: https://project-mei.xyz
+    icon: https://project-mei.xyz/images/logo.png
+  - name: Home Dashboard
+    url: https://home.project-mei.xyz
+  - name: ArchiSteamFarm
+    url: https://asf.project-mei.xyz
+  - name: Grafana
+    url: https://graph.project-mei.xyz
+  - name: InfluxDB
+    url: https://influxdb.project-mei.xyz
+    maxResponseTime: 5000
+  - name: Logviewer/Makoto
+    url: https://makoto.project-mei.xyz
+  - name: Logviewer/Teriri
+    url: https://teriri.project-mei.xyz
+  - name: Shogun Bot
+    url: https://shogun.project-mei.xyz
+  - name: Shogun Dashboard
+    url: https://dash.project-mei.xyz
+  - name: Lavalink
+    url: https://lavalink.project-mei.xyz
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 401
+      
+assignees:
+  - raidensakura
+  
+status-website:
+  theme: night
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.project-mei.xyz
+  favicon: https://project-mei.xyz/images/logo.png
+  logoUrl: https://project-mei.xyz/images/logo.png
+  logoHref: https://project-mei.xyz
+  name: Shogun Status
+  introTitle: Shogun Status
+  introMessage: Keep track of services hosted by Raiden here.
   navbar:
+    - title: Home
+      href: https://project-mei.xyz
     - title: Status
       href: /
     - title: GitHub
