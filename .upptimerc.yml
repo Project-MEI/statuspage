@@ -7,30 +7,18 @@ sites:
   - name: Website
     url: https://project-mei.xyz
     icon: https://project-mei.xyz/images/logo.png
-  - name: Home Dashboard
+  - name: VPS Dashboard
     url: https://home.project-mei.xyz
-  - name: ArchiSteamFarm
+  - name: Shogun Bot
+    url: https://shogun.project-mei.xyz
+  - name: Shogun Dashboard
+    url: https://dash.project-mei.xyz
+  - name: Archi Steam Farm
     url: https://asf.project-mei.xyz
   - name: Grafana
     url: https://graph.project-mei.xyz
   - name: InfluxDB
     url: https://influxdb.project-mei.xyz
-    maxResponseTime: 5000
-  - name: Logviewer/Makoto
-    url: https://makoto.project-mei.xyz
-  - name: Logviewer/Teriri
-    url: https://teriri.project-mei.xyz
-  - name: Shogun Bot
-    url: https://shogun.project-mei.xyz
-  - name: Shogun Dashboard
-    url: https://dash.project-mei.xyz
-  - name: Lavalink
-    url: https://lavalink.project-mei.xyz
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
-      - 401
       
 assignees:
   - raidensakura
@@ -43,9 +31,9 @@ status-website:
   favicon: https://project-mei.xyz/images/logo.png
   logoUrl: https://project-mei.xyz/images/logo.png
   logoHref: https://project-mei.xyz
-  name: Shogun Status
+  name: Project MEI Status
   theme: night
-  introTitle: Shogun Status
+  introTitle: Project MEI Status
   introMessage: Keep track of services hosted by Raiden here.
   navbar:
     - title: Home
