@@ -34,9 +34,6 @@ sites:
       
 assignees:
   - raidensakura
-  
-status-website:
-  theme: night
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -47,6 +44,7 @@ status-website:
   logoUrl: https://project-mei.xyz/images/logo.png
   logoHref: https://project-mei.xyz
   name: Shogun Status
+  theme: night
   introTitle: Shogun Status
   introMessage: Keep track of services hosted by Raiden here.
   navbar:
