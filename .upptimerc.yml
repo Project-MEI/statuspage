@@ -7,18 +7,24 @@ sites:
   - name: Website
     url: https://project-mei.xyz
     icon: https://project-mei.xyz/images/logo.png
-  - name: VPS Dashboard
+  - name: Home Dashboard
     url: https://home.project-mei.xyz
+    icon: https://project-mei.xyz/images/logo.png
   - name: Shogun Bot
-    url: https://shogun.project-mei.xyz
+    url: $URL_SHOGUN
+    icon: https://project-mei.xyz/images/logo.png
   - name: Shogun Dashboard
     url: https://dash.project-mei.xyz
+    icon: https://project-mei.xyz/images/logo.png
   - name: Archi Steam Farm
     url: https://asf.project-mei.xyz
+    icon: https://raw.githubusercontent.com/JustArchiNET/ArchiSteamFarm/main/resources/ASF_184x184.png
   - name: Grafana
     url: https://graph.project-mei.xyz
+    icon: https://graph.project-mei.xyz/public/img/grafana_icon.svg
   - name: InfluxDB
     url: https://influxdb.project-mei.xyz
+    icon: https://asf.project-mei.xyz/images/logo.png
       
 assignees:
   - raidensakura
