@@ -11,7 +11,7 @@ sites:
     url: https://home.project-mei.xyz
     icon: https://home.project-mei.xyz/imgs/logo.png
   - name: Shogun Bot
-    url: $URL_SHOGUN
+    url: https://shogunbot.project-mei.xyz
     icon: https://project-mei.xyz/images/logo.png
   - name: Shogun Dashboard
     url: https://dash.project-mei.xyz
