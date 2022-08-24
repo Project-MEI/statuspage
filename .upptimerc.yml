@@ -4,27 +4,46 @@ repo: shogun-status # The name of this repository
 user-agent: raidensakura
 
 sites:
-  - name: Website
+    # Dashboards and main sites
+  - name: Main Website
     url: https://project-mei.xyz
     icon: https://project-mei.xyz/images/logo.png
   - name: Home Dashboard
     url: https://home.project-mei.xyz
     icon: https://home.project-mei.xyz/imgs/logo.png
+  - name: Portainer
+    url: https://portainer.project-mei.xyz/
+    icon: https://portainer.project-mei.xyz/2dcfc527d067d4ae3424.png
+    # Shogun bot
   - name: Shogun Bot
     url: https://shogunbot.project-mei.xyz
-    icon: https://project-mei.xyz/images/logo.png
+    icon: https://project-mei.xyz/images/shogun-logo.png
   - name: Shogun Dashboard
     url: https://dash.project-mei.xyz
-    icon: https://project-mei.xyz/images/logo.png
-  - name: Archi Steam Farm
-    url: https://asf.project-mei.xyz
-    icon: https://raw.githubusercontent.com/JustArchiNET/ArchiSteamFarm/main/resources/ASF_184x184.png
+    icon: https://project-mei.xyz/images/shogun-logo.png
+    # Grafana-related
   - name: Grafana
     url: https://graph.project-mei.xyz
     icon: https://graph.project-mei.xyz/public/img/grafana_icon.svg
   - name: InfluxDB
     url: https://influxdb.project-mei.xyz
     icon: https://asf.project-mei.xyz/images/logo.png
+    # Discord Modmails
+  - name: Logviewer/Makoto
+    url: https://makoto.project-mei.xyz/
+    icon: https://makoto.project-mei.xyz/static/favicon.ico
+  - name: Logviewer/Teriri
+    url: https://teriri.project-mei.xyz/
+    icon: https://teriri.project-mei.xyz/static/favicon.ico
+    # Misc stuff
+  - name: Archi Steam Farm
+    url: https://asf.project-mei.xyz
+    icon: https://asf.project-mei.xyz/images/logo.png
+  - name: TeamSpeak 3 Server
+    icon: https://files.catbox.moe/fl9kv8.jpg
+    check: "tcp-ping"
+    url: $SHOGUN_IP
+    port: 9987
       
 assignees:
   - raidensakura
