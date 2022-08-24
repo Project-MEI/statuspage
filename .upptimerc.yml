@@ -57,7 +57,7 @@ status-website:
   logoUrl: https://project-mei.xyz/images/logo.png
   logoHref: https://project-mei.xyz
   name: Project MEI Status
-  theme: night
+  theme: dark
   introTitle: Project MEI Status
   introMessage: Keep track of services hosted by Raiden here.
   navbar:
