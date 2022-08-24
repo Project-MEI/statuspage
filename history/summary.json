@@ -187,18 +187,16 @@
     "icon": "https://files.catbox.moe/fl9kv8.jpg",
     "slug": "team-speak-3-server",
     "status": "up",
-    "uptime": "15.62%",
-    "uptimeDay": "15.62%",
-    "uptimeWeek": "15.62%",
-    "uptimeMonth": "15.62%",
-    "uptimeYear": "15.62%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 222,
     "timeDay": 222,
     "timeWeek": 222,
     "timeMonth": 222,
     "timeYear": 222,
-    "dailyMinutesDown": {
-      "2022-08-24": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
