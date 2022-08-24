@@ -43,7 +43,7 @@ sites:
     icon: https://files.catbox.moe/fl9kv8.jpg
     check: "tcp-ping"
     url: $SHOGUN_IP
-    port: 9987
+    port: 10011
       
 assignees:
   - raidensakura
