@@ -61,18 +61,18 @@
     "icon": "https://project-mei.xyz/images/shogun-logo.png",
     "slug": "shogun-bot",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.19%",
+    "uptimeDay": "89.38%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
     "time": 1033,
     "timeDay": 1161,
     "timeWeek": 1214,
     "timeMonth": 1033,
     "timeYear": 1033,
     "dailyMinutesDown": {
-      "2022-09-01": 0
+      "2022-09-01": 153
     }
   },
   {
@@ -134,36 +134,40 @@
     "url": "https://makoto.project-mei.xyz/",
     "icon": "https://makoto.project-mei.xyz/static/favicon.ico",
     "slug": "logviewer-makoto",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1261,
-    "timeDay": 1274,
-    "timeWeek": 1326,
-    "timeMonth": 1261,
-    "timeYear": 1261,
-    "dailyMinutesDown": {}
+    "time": 1287,
+    "timeDay": 1441,
+    "timeWeek": 1357,
+    "timeMonth": 1287,
+    "timeYear": 1287,
+    "dailyMinutesDown": {
+      "2022-09-01": 0
+    }
   },
   {
     "name": "Logviewer/Teriri",
     "url": "https://teriri.project-mei.xyz/",
     "icon": "https://teriri.project-mei.xyz/static/favicon.ico",
     "slug": "logviewer-teriri",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1237,
-    "timeDay": 1313,
-    "timeWeek": 1296,
-    "timeMonth": 1237,
-    "timeYear": 1237,
-    "dailyMinutesDown": {}
+    "time": 1270,
+    "timeDay": 1491,
+    "timeWeek": 1338,
+    "timeMonth": 1270,
+    "timeYear": 1270,
+    "dailyMinutesDown": {
+      "2022-09-01": 0
+    }
   },
   {
     "name": "Archi Steam Farm",
