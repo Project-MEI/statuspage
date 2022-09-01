@@ -8,9 +8,6 @@ sites:
   - name: Main Website
     url: https://project-mei.xyz
     icon: https://project-mei.xyz/images/logo.png
-  - name: Home Dashboard
-    url: https://home.project-mei.xyz
-    icon: https://home.project-mei.xyz/imgs/logo.png
   - name: Portainer
     url: https://portainer.project-mei.xyz/
     icon: https://portainer.project-mei.xyz/2dcfc527d067d4ae3424.png
