@@ -39,11 +39,6 @@ sites:
   - name: Archi Steam Farm
     url: https://asf.project-mei.xyz
     icon: https://asf.project-mei.xyz/images/logo.png
-  - name: TeamSpeak 3 Server
-    icon: https://files.catbox.moe/fl9kv8.jpg
-    check: "tcp-ping"
-    url: $SHOGUN_IP
-    port: 10011
       
 assignees:
   - raidensakura
