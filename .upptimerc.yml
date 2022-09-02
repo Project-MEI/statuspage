@@ -24,7 +24,7 @@ sites:
     icon: https://graph.project-mei.xyz/public/img/grafana_icon.svg
   - name: InfluxDB
     url: https://influxdb.project-mei.xyz
-    icon: https://asf.project-mei.xyz/images/logo.png
+    icon: https://influxdb.project-mei.xyz/756cfeadfd.svg
     # Discord Modmails
   - name: Logviewer/Makoto
     url: https://makoto.project-mei.xyz/
