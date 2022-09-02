@@ -25,18 +25,19 @@
     "icon": "https://portainer.project-mei.xyz/2dcfc527d067d4ae3424.png",
     "slug": "portainer",
     "status": "down",
-    "uptime": "96.87%",
-    "uptimeDay": "74.04%",
-    "uptimeWeek": "96.29%",
-    "uptimeMonth": "96.87%",
-    "uptimeYear": "96.87%",
+    "uptime": "96.57%",
+    "uptimeDay": "71.42%",
+    "uptimeWeek": "95.92%",
+    "uptimeMonth": "96.57%",
+    "uptimeYear": "96.57%",
     "time": 1066,
     "timeDay": 762,
     "timeWeek": 1038,
     "timeMonth": 1066,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2022-09-01": 373
+      "2022-09-02": 30,
+      "2022-09-01": 382
     }
   },
   {
@@ -45,18 +46,19 @@
     "icon": "https://project-mei.xyz/images/shogun-logo.png",
     "slug": "shogun-bot",
     "status": "down",
-    "uptime": "98.77%",
-    "uptimeDay": "83.48%",
-    "uptimeWeek": "97.64%",
-    "uptimeMonth": "98.77%",
-    "uptimeYear": "98.77%",
+    "uptime": "98.58%",
+    "uptimeDay": "80.86%",
+    "uptimeWeek": "97.27%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "98.58%",
     "time": 856,
     "timeDay": 687,
     "timeWeek": 833,
     "timeMonth": 856,
     "timeYear": 856,
     "dailyMinutesDown": {
-      "2022-09-01": 238
+      "2022-09-02": 30,
+      "2022-09-01": 247
     }
   },
   {
@@ -65,18 +67,19 @@
     "icon": "https://project-mei.xyz/images/shogun-logo.png",
     "slug": "shogun-dashboard",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "95.75%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.49%",
+    "uptimeDay": "93.13%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
     "time": 988,
     "timeDay": 685,
     "timeWeek": 882,
     "timeMonth": 988,
     "timeYear": 988,
     "dailyMinutesDown": {
-      "2022-09-01": 61
+      "2022-09-02": 30,
+      "2022-09-01": 70
     }
   },
   {
@@ -85,11 +88,11 @@
     "icon": "https://graph.project-mei.xyz/public/img/grafana_icon.svg",
     "slug": "grafana",
     "status": "up",
-    "uptime": "98.72%",
+    "uptime": "98.73%",
     "uptimeDay": "82.82%",
     "uptimeWeek": "97.55%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "98.72%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "98.73%",
     "time": 978,
     "timeDay": 774,
     "timeWeek": 920,
@@ -125,18 +128,19 @@
     "icon": "https://makoto.project-mei.xyz/static/favicon.ico",
     "slug": "logviewer-makoto",
     "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "95.10%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.10%",
+    "uptimeDay": "92.48%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.10%",
     "time": 945,
     "timeDay": 773,
     "timeWeek": 921,
     "timeMonth": 945,
     "timeYear": 945,
     "dailyMinutesDown": {
-      "2022-09-01": 71
+      "2022-09-02": 30,
+      "2022-09-01": 79
     }
   },
   {
@@ -145,18 +149,19 @@
     "icon": "https://teriri.project-mei.xyz/static/favicon.ico",
     "slug": "logviewer-teriri",
     "status": "down",
-    "uptime": "99.29%",
-    "uptimeDay": "94.11%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.29%",
+    "uptime": "98.98%",
+    "uptimeDay": "91.49%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
     "time": 952,
     "timeDay": 782,
     "timeWeek": 929,
     "timeMonth": 952,
     "timeYear": 952,
     "dailyMinutesDown": {
-      "2022-09-01": 85
+      "2022-09-02": 30,
+      "2022-09-01": 93
     }
   },
   {
@@ -165,18 +170,19 @@
     "icon": "https://asf.project-mei.xyz/images/logo.png",
     "slug": "archi-steam-farm",
     "status": "down",
-    "uptime": "97.94%",
-    "uptimeDay": "73.51%",
-    "uptimeWeek": "96.22%",
-    "uptimeMonth": "97.94%",
-    "uptimeYear": "97.94%",
+    "uptime": "97.75%",
+    "uptimeDay": "70.89%",
+    "uptimeWeek": "95.84%",
+    "uptimeMonth": "97.75%",
+    "uptimeYear": "97.75%",
     "time": 1091,
     "timeDay": 488,
     "timeWeek": 1042,
     "timeMonth": 1091,
     "timeYear": 1091,
     "dailyMinutesDown": {
-      "2022-09-01": 381,
+      "2022-09-02": 30,
+      "2022-09-01": 390,
       "2022-08-19": 17
     }
   }
