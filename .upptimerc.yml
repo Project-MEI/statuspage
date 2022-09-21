@@ -31,10 +31,10 @@ sites:
     # Discord Modmails
   - name: Modmail (Makoto)
     url: https://makoto.project-mei.xyz/
-    icon: https://makoto.project-mei.xyz/static/favicon.ico
+    icon: https://makoto.project-mei.xyz/static/favicon.webp
   - name: Modmail (Teriri)
     url: https://teriri.project-mei.xyz/
-    icon: https://teriri.project-mei.xyz/static/favicon.ico
+    icon: https://teriri.project-mei.xyz/static/favicon.webp
     # Misc stuff
   - name: Archi Steam Farm
     url: https://asf.project-mei.xyz
