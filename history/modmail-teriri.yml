@@ -1,7 +1,7 @@
 url: https://teriri.project-mei.xyz/
-status: up
-code: 200
-responseTime: 371
-lastUpdated: 2022-11-24T23:11:49.706Z
+status: down
+code: 502
+responseTime: 221
+lastUpdated: 2022-11-25T07:57:00.310Z
 startTime: Wed Sep 21 2022 14:26:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
