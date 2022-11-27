@@ -29,12 +29,18 @@ sites:
     url: https://influxdb.project-mei.xyz
     icon: https://influxdb.project-mei.xyz/756cfeadfd.svg
     # Discord Modmails
-  - name: Modmail (Makoto)
+  - name: Makoto (Bot)
+    url: https://modmail-makoto.up.railway.app/
+    icon: https://makoto.project-mei.xyz/static/favicon.ico
+  - name: Makoto (Logviewer)
     url: https://makoto.project-mei.xyz/
-    icon: https://makoto.project-mei.xyz/static/favicon.webp
-  - name: Modmail (Teriri)
+    icon: https://makoto.project-mei.xyz/static/favicon.ico
+  - name: Teriri (Bot)
+    url: https://modmail-teriri.up.railway.app/
+    icon: https://teriri.project-mei.xyz/static/favicon.ico
+  - name: Teriri (Logviewer)
     url: https://teriri.project-mei.xyz/
-    icon: https://teriri.project-mei.xyz/static/favicon.webp
+    icon: https://teriri.project-mei.xyz/static/favicon.ico
     # Misc stuff
   - name: Archi Steam Farm
     url: https://asf.project-mei.xyz
@@ -53,8 +59,8 @@ status-website:
   logoHref: https://project-mei.xyz
   name: Project MEI Status
   theme: light
-  introTitle: Project MEI Status
-  introMessage: Keep track of services hosted by Raiden here.
+  introTitle: Project MEI Network Status
+  introMessage: A status page mostly for automatic notification of downtime to Raiden.
   navbar:
     - title: Home
       href: https://project-mei.xyz
