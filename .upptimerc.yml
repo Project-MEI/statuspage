@@ -16,7 +16,7 @@ sites:
     icon: https://portainer.project-mei.xyz/2dcfc527d067d4ae3424.png
     # Shogun bot
   - name: Shogun Bot
-    url: https://shogunbot.project-mei.xyz
+    url: https://shogun.project-mei.xyz
     icon: https://project-mei.xyz/images/shogun-logo.png
   - name: Shogun Dashboard
     url: https://dash.project-mei.xyz
