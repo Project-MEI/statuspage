@@ -168,37 +168,39 @@
     "url": "https://modmail-makoto.up.railway.app/",
     "icon": "https://makoto.project-mei.xyz/static/favicon.ico",
     "slug": "makoto-bot",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 255,
-    "timeWeek": 214,
-    "timeMonth": 216,
-    "timeYear": 216,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Makoto (Logviewer)",
-    "url": "https://makoto.project-mei.xyz/",
-    "icon": "https://makoto.project-mei.xyz/static/favicon.ico",
-    "slug": "makoto-logviewer",
     "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 975,
-    "timeDay": 968,
-    "timeWeek": 1028,
-    "timeMonth": 975,
-    "timeYear": 975,
+    "time": 218,
+    "timeDay": 256,
+    "timeWeek": 219,
+    "timeMonth": 218,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2022-12-12": 0
+    }
+  },
+  {
+    "name": "Makoto (Logviewer)",
+    "url": "https://makoto.project-mei.xyz/",
+    "icon": "https://makoto.project-mei.xyz/static/favicon.ico",
+    "slug": "makoto-logviewer",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 939,
+    "timeDay": 644,
+    "timeWeek": 939,
+    "timeMonth": 939,
+    "timeYear": 939,
+    "dailyMinutesDown": {
+      "2022-12-12": 16
     }
   },
   {
@@ -207,18 +209,18 @@
     "icon": "https://teriri.project-mei.xyz/static/favicon.ico",
     "slug": "teriri-bot",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.82%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 226,
     "timeDay": 214,
     "timeWeek": 223,
     "timeMonth": 226,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2022-12-12": 24
+      "2022-12-12": 40
     }
   },
   {
