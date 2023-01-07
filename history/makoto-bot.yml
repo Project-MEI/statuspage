@@ -1,7 +1,7 @@
 url: https://makoto-modmail-bot.up.railway.app/
-status: up
-code: 200
-responseTime: 276
-lastUpdated: 2023-01-06T23:09:49.929Z
+status: down
+code: 503
+responseTime: 275
+lastUpdated: 2023-01-07T13:29:21.278Z
 startTime: Sun Nov 27 2022 12:54:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
