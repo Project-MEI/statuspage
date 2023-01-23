@@ -29,12 +29,6 @@ sites:
     url: https://influxdb.project-mei.xyz
     icon: https://influxdb.project-mei.xyz/756cfeadfd.svg
     # Discord Modmails
-  - name: Makoto (Bot)
-    url: https://makoto-modmail-bot.up.railway.app/
-    icon: https://makoto.project-mei.xyz/static/favicon.ico
-  - name: Makoto (Logviewer)
-    url: https://makoto.project-mei.xyz/
-    icon: https://makoto.project-mei.xyz/static/favicon.ico
   - name: Teriri (Bot)
     url: https://teriri-modmail-bot.up.railway.app/
     icon: https://teriri.project-mei.xyz/static/favicon.ico
