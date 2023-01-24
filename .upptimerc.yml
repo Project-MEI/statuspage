@@ -28,13 +28,6 @@ sites:
   - name: InfluxDB
     url: https://influxdb.project-mei.xyz
     icon: https://influxdb.project-mei.xyz/756cfeadfd.svg
-    # Discord Modmails
-  - name: Teriri (Bot)
-    url: https://teriri-modmail-bot.up.railway.app/
-    icon: https://teriri.project-mei.xyz/static/favicon.ico
-  - name: Teriri (Logviewer)
-    url: https://teriri.project-mei.xyz/
-    icon: https://teriri.project-mei.xyz/static/favicon.ico
     # Misc stuff
   - name: Archi Steam Farm
     url: https://asf.project-mei.xyz
