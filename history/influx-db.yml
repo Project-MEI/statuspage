@@ -1,7 +1,7 @@
 url: https://influxdb.project-mei.xyz
-status: up
-code: 200
-responseTime: 462
-lastUpdated: 2023-04-03T23:09:03.106Z
+status: down
+code: 530
+responseTime: 45
+lastUpdated: 2023-04-04T16:36:17.692Z
 startTime: Fri Aug 19 2022 12:47:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
