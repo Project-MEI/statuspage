@@ -8,12 +8,6 @@ sites:
   - name: Main Website
     url: https://project-mei.xyz
     icon: https://project-mei.xyz/images/logo.png
-  - name: Dashdot
-    url: https://home.project-mei.xyz
-    icon: https://home.project-mei.xyz/assets/favicon.ico
-  - name: Portainer
-    url: https://portainer.project-mei.xyz/
-    icon: https://portainer.project-mei.xyz/2dcfc527d067d4ae3424.png
     # Shogun bot
   - name: Shogun Bot
     url: https://shogun.project-mei.xyz
@@ -28,10 +22,6 @@ sites:
   - name: InfluxDB
     url: https://influxdb.project-mei.xyz
     icon: https://influxdb.project-mei.xyz/756cfeadfd.svg
-    # Misc stuff
-  - name: Archi Steam Farm
-    url: https://asf.project-mei.xyz
-    icon: https://asf.project-mei.xyz/images/logo.png
       
 assignees:
   - raidensakura
