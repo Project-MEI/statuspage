@@ -1,10 +1,9 @@
 # Change these first
 owner: raidensakura # Your GitHub organization or username, where this repository lives
-repo: shogun-status # The name of this repository
+repo: statuspage
 user-agent: raidensakura
 
 sites:
-    # Dashboards and main sites
   - name: Main Website
     url: https://project-mei.xyz
     icon: https://project-mei.xyz/images/logo.png
@@ -15,13 +14,6 @@ sites:
   - name: Shogun Dashboard
     url: https://dash.project-mei.xyz
     icon: https://project-mei.xyz/images/shogun-logo.png
-    # Grafana-related
-  - name: Grafana
-    url: https://graph.project-mei.xyz
-    icon: https://graph.project-mei.xyz/public/img/grafana_icon.svg
-  - name: InfluxDB
-    url: https://influxdb.project-mei.xyz
-    icon: https://influxdb.project-mei.xyz/756cfeadfd.svg
       
 assignees:
   - raidensakura
@@ -29,8 +21,8 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # baseUrl: /your-repo-name
-  cname: status.project-mei.xyz
+  baseUrl: /statuspage
+  # cname: status.project-mei.xyz
   favicon: https://project-mei.xyz/images/logo.png
   logoUrl: https://project-mei.xyz/images/logo.png
   logoHref: https://project-mei.xyz
