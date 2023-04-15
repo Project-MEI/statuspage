@@ -27,7 +27,7 @@ status-website:
   logoUrl: https://project-mei.xyz/images/logo.png
   logoHref: https://project-mei.xyz
   name: Project MEI Status
-  theme: dark
+  theme: night
   introTitle: Project MEI Status
   introMessage: A status page mostly for automatic notification of downtime to Raiden.
   navbar:
