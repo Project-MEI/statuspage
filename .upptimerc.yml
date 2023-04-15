@@ -29,7 +29,7 @@ status-website:
   name: Project MEI Status
   theme: night
   introTitle: Project MEI Status
-  introMessage: A status page mostly for automatic notification of downtime to Raiden.
+  introMessage: A status page powered by Upptime, hosted on GitHub Pages. Some monitors have high latency due to Cloudflare Tunnel proxy. This page is mostly a backup of the main monitor.
   navbar:
     - title: Home
       href: https://project-mei.xyz
