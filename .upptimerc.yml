@@ -10,8 +10,10 @@ sites:
     url: $VPS_IP
     port: $VPS_PORT
   - name: Main Monitor
-    url: https://status.project-mei.xyz
     icon: https://project-mei.xyz/images/logo.png
+    check: "tcp-ping"
+    url: status.project-mei.xyz
+    port: 80
       
 assignees:
   - raidensakura
