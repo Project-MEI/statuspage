@@ -23,7 +23,7 @@ status-website:
   cname: uptime.project-mei.xyz
   favicon: https://project-mei.xyz/images/logo.png
   logoUrl: https://project-mei.xyz/images/logo.png
-  logoHref: https://project-mei.xyz
+  logoHref: https://uptime.project-mei.xyz
   name: Project MEI Uptime
   theme: night
   introTitle: Project MEI Monitor
