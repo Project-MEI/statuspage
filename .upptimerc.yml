@@ -31,12 +31,12 @@ status-website:
   navbar:
     - title: Home
       href: https://project-mei.xyz
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Main Monitor
       href: https://status.project-mei.xyz
+    - title: Discord
+      href: https://dsc.gg/transience
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
