@@ -4,16 +4,14 @@ repo: statuspage
 user-agent: raidensakura
 
 sites:
-  - name: Main Website
-    url: https://project-mei.xyz
+  - name: Main VPS
+    icon: https://project-mei.xyz/images/shogun-logo.png
+    check: "tcp-ping"
+    url: $VPS_IP
+    port: $VPS_PORT
+  - name: Main Monitor
+    url: https://status.project-mei.xyz
     icon: https://project-mei.xyz/images/logo.png
-    # Shogun bot
-  - name: Shogun Bot
-    url: https://shogun.project-mei.xyz
-    icon: https://project-mei.xyz/images/shogun-logo.png
-  - name: Shogun Dashboard
-    url: https://dash.project-mei.xyz
-    icon: https://project-mei.xyz/images/shogun-logo.png
       
 assignees:
   - raidensakura
@@ -21,15 +19,15 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /statuspage
-  # cname: status.project-mei.xyz
+  # baseUrl: /statuspage
+  cname: uptime.project-mei.xyz
   favicon: https://project-mei.xyz/images/logo.png
   logoUrl: https://project-mei.xyz/images/logo.png
   logoHref: https://project-mei.xyz
-  name: Project MEI Status
+  name: Project MEI Uptime
   theme: night
-  introTitle: Project MEI Status
-  introMessage: A status page powered by Upptime, hosted on GitHub Pages. Some monitors have high latency due to Cloudflare Tunnel proxy. This page is mostly a backup of the main monitor.
+  introTitle: Project MEI Monitor
+  introMessage: A status page powered by Upptime, hosted on GitHub Pages. This page is mostly a backup of the main monitor.
   navbar:
     - title: Home
       href: https://project-mei.xyz
@@ -37,6 +35,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Main Monitor
+      href: https://status.project-mei.xyz
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
