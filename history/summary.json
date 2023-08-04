@@ -22,7 +22,7 @@
     "url": "status.project-mei.xyz",
     "icon": "https://project-mei.xyz/images/logo.png",
     "slug": "main-monitor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 172,
     "timeMonth": 162,
     "timeYear": 167,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-04": 0
+    }
   }
 ]
