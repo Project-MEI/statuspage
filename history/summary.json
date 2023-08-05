@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 156,
-    "timeWeek": 147,
-    "timeMonth": 132,
+    "timeDay": 106,
+    "timeWeek": 138,
+    "timeMonth": 131,
     "timeYear": 125,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,15 @@
     "slug": "main-monitor",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 198,
-    "timeWeek": 172,
-    "timeMonth": 162,
-    "timeYear": 167,
-    "dailyMinutesDown": {
-      "2023-08-04": 7
-    }
+    "time": 166,
+    "timeDay": 100,
+    "timeWeek": 160,
+    "timeMonth": 160,
+    "timeYear": 166,
+    "dailyMinutesDown": {}
   }
 ]
