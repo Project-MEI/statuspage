@@ -5,12 +5,12 @@ user-agent: raidensakura
 
 sites:
   - name: Main VPS
-    icon: https://project-mei.xyz/images/shogun-logo.png
+    icon: https://old.project-mei.xyz/images/shogun-logo.png
     check: "tcp-ping"
     url: $VPS_IP
     port: $VPS_PORT
   - name: Main Monitor
-    icon: https://project-mei.xyz/images/logo.png
+    icon: https://old.project-mei.xyz/images/logo.png
     check: "tcp-ping"
     url: status.project-mei.xyz
     port: 80
@@ -23,13 +23,13 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # baseUrl: /statuspage
   cname: uptime.project-mei.xyz
-  favicon: https://project-mei.xyz/images/logo.png
-  logoUrl: https://project-mei.xyz/images/logo.png
+  favicon: https://old.project-mei.xyz/images/logo.png
+  logoUrl: https://old.project-mei.xyz/images/logo.png
   logoHref: https://uptime.project-mei.xyz
   name: Project MEI Uptime
   theme: night
   introTitle: Project MEI Monitor
-  introMessage: A status page powered by Upptime, hosted on GitHub Pages. This page is mostly a backup of the main monitor.
+  introMessage: A status page powered by Upptime, hosted on GitHub Pages. This page is a backup of the main monitor.
   navbar:
     - title: Home
       href: https://project-mei.xyz
