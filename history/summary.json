@@ -2,7 +2,7 @@
   {
     "name": "Main VPS",
     "url": "$VPS_IP",
-    "icon": "https://project-mei.xyz/images/shogun-logo.png",
+    "icon": "https://old.project-mei.xyz/images/shogun-logo.png",
     "slug": "main-vps",
     "status": "up",
     "uptime": "100.00%",
@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 93,
-    "timeWeek": 109,
+    "timeDay": 108,
+    "timeWeek": 110,
     "timeMonth": 122,
     "timeYear": 124,
     "dailyMinutesDown": {}
@@ -20,7 +20,7 @@
   {
     "name": "Main Monitor",
     "url": "status.project-mei.xyz",
-    "icon": "https://project-mei.xyz/images/logo.png",
+    "icon": "https://old.project-mei.xyz/images/logo.png",
     "slug": "main-monitor",
     "status": "up",
     "uptime": "100.00%",
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 112,
-    "timeWeek": 146,
-    "timeMonth": 149,
+    "timeDay": 139,
+    "timeWeek": 148,
+    "timeMonth": 150,
     "timeYear": 163,
     "dailyMinutesDown": {}
   }
