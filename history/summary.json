@@ -15,7 +15,9 @@
     "timeWeek": 104,
     "timeMonth": 119,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   },
   {
     "name": "Main Monitor",
