@@ -4,19 +4,20 @@
     "url": "$VPS_IP",
     "icon": "https://old.project-mei.xyz/images/shogun-logo.png",
     "slug": "main-vps",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "5.06%",
+    "uptimeWeek": "86.44%",
+    "uptimeMonth": "96.88%",
+    "uptimeYear": "99.61%",
     "time": 124,
-    "timeDay": 92,
-    "timeWeek": 104,
+    "timeDay": 0,
+    "timeWeek": 105,
     "timeMonth": 119,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2023-12-14": 0
+      "2023-12-15": 26,
+      "2023-12-14": 1341
     }
   },
   {
@@ -31,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 107,
-    "timeWeek": 125,
-    "timeMonth": 149,
+    "timeDay": 184,
+    "timeWeek": 136,
+    "timeMonth": 150,
     "timeYear": 160,
     "dailyMinutesDown": {}
   }
