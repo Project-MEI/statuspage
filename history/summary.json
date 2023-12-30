@@ -6,13 +6,13 @@
     "slug": "main-vps",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "13.35%",
+    "uptimeDay": "60.82%",
     "uptimeWeek": "87.62%",
     "uptimeMonth": "90.52%",
     "uptimeYear": "98.87%",
     "time": 123,
-    "timeDay": 91,
-    "timeWeek": 120,
+    "timeDay": 93,
+    "timeWeek": 113,
     "timeMonth": 112,
     "timeYear": 123,
     "dailyMinutesDown": {
@@ -36,8 +36,8 @@
     "uptimeYear": "100.00%",
     "time": 157,
     "timeDay": 81,
-    "timeWeek": 105,
-    "timeMonth": 124,
+    "timeWeek": 98,
+    "timeMonth": 122,
     "timeYear": 157,
     "dailyMinutesDown": {}
   }
