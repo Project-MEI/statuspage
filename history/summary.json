@@ -4,7 +4,7 @@
     "url": "$VPS_IP",
     "icon": "https://old.project-mei.xyz/images/shogun-logo.png",
     "slug": "main-vps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 125,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2024-02-04": 0,
       "2023-12-29": 589,
       "2023-12-28": 659,
       "2023-12-16": 123,
