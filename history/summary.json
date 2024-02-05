@@ -4,7 +4,7 @@
     "url": "$VPS_IP",
     "icon": "https://old.project-mei.xyz/images/shogun-logo.png",
     "slug": "main-vps",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
     "uptimeDay": "59.66%",
     "uptimeWeek": "94.24%",
