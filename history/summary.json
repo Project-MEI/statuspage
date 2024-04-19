@@ -5,15 +5,15 @@
     "icon": "https://old.project-mei.xyz/images/shogun-logo.png",
     "slug": "main-vps",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "98.97%",
     "time": 122,
-    "timeDay": 91,
+    "timeDay": 95,
     "timeWeek": 100,
-    "timeMonth": 113,
+    "timeMonth": 112,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2024-04-04": 27,
@@ -40,10 +40,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 1,
+    "timeDay": 5,
     "timeWeek": 3,
     "timeMonth": 3,
-    "timeYear": 129,
+    "timeYear": 127,
     "dailyMinutesDown": {}
   }
 ]
