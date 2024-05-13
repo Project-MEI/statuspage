@@ -13,8 +13,8 @@
     "time": 122,
     "timeDay": 161,
     "timeWeek": 130,
-    "timeMonth": 118,
-    "timeYear": 122,
+    "timeMonth": 121,
+    "timeYear": 123,
     "dailyMinutesDown": {
       "2024-04-21": 320,
       "2024-04-04": 27,
@@ -43,7 +43,7 @@
     "time": 121,
     "timeDay": 2,
     "timeWeek": 2,
-    "timeMonth": 3,
+    "timeMonth": 2,
     "timeYear": 117,
     "dailyMinutesDown": {}
   }
